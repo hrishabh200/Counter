@@ -1,0 +1,29 @@
+.content
+{
+    top: 500px;
+    align-items: center;
+    position: absolute;
+    left: 1350px;
+    font-size: 250%;
+    text-align: center;
+}
+body
+{
+    background-color: lightblue;
+}
+.button
+{
+    padding: 30px 60px;
+    border: 30px 30px;
+    margin: 30px;
+    font-size: 100%;
+    align-items: center;
+    border-radius: 10px 30px;
+
+}
+.div1
+{
+    left: -190px;
+    display:flex;
+    position: absolute;
+}
